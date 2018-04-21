@@ -12,7 +12,7 @@ defmodule ElixirBackalleyScorekeeper do
       :world
 
   """
-  def hello do
-    :world
+  def game do
+    IO.puts "Let's play Back Alley!"
   end
 end
